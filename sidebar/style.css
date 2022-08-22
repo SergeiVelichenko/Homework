@@ -6,7 +6,7 @@
 }
 
 .sidebar__row {
-    background-color: rgb(95, 32, 159);
+    background-color: rgb(159, 32, 140);
     width: 100px;
     padding: 50px 0px;
     transition: width .4s linear;
